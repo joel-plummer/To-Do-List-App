@@ -1,2 +1,2 @@
 # ToDo-List
-Simple To Do List App Made with React Native
+To-Do List Mobile App Made with React-Native
